@@ -10,11 +10,12 @@ suportadas pelo editor sem a instalação plugins de ternceiros.
 ~/vimfiles/vimrc
 ## Linux 
 ~/.vim/vimrc
+
 '''
-set number "Exibe numeração das linhas
-set relativenumber "Exibe a numeração das linhas em relação à linha atual
-set scrolloff=2 "Posiciona o cursor em duas linhas antes do fianl da tela
-set cursorline "Destaca a linha atual
+set number  Exibe numeração das linhas
+set relativenumber  Exibe a numeração das linhas em relação à linha atual
+set scrolloff=2  Posiciona o cursor em duas linhas antes do fianl da tela
+set cursorline  Destaca a linha atual
 set autoindent
 set smartindent
 set expandtab
