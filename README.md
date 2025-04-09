@@ -41,5 +41,5 @@ int main(){
 }
 ~~~
 
-Atenção!! esse arquivo é para treino de utilização do git 
+Atenção!! esse arquivo é para adaptação à utilização do ambiente git 
 Não recomendo que o utilize para estudo da linguagem C.
