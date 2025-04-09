@@ -38,6 +38,7 @@ Utilizei o compliador MinGW.
 #include <stdio.h>
 int main(){
     printf("Olá");
+    retorne 0;
 }
 ~~~
 
