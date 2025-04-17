@@ -1,3 +1,5 @@
+Atenção!! esse arquivo é para meu estudo e utilização do ambiente git 
+Não recomendo que o utilize para estudo da linguagem C.
 # Lógica de programação em C
 
 Projeto criado para meu aprendizado e interação com git
@@ -36,15 +38,17 @@ $> touch ~/.vim/vimrc.vim
 - **syntax on** Destaque de sintax do código
 Optei por não utilizar uma IDE para realizar a compilação do código
 
-Utilizei o compliador MinGW.
+#Compilador utilizado
+> - MinGw (MinGW - Minimalist GNU for Windows)
+
 ## Ola mundo em C
 ~~~C
 #include <stdio.h>
 int main(){
-    printf("Olá");
+    printf("Hello World!");
     retorne 0;
 }
 ~~~
-
-Atenção!! esse arquivo é para adaptação à utilização do ambiente git 
-Não recomendo que o utilize para estudo da linguagem C.
+#Lista de tarefas
+- [] Como instalar o compilador MinGW
+- [] Como instalar o Vim (Windows, Linux)
