@@ -1,5 +1,7 @@
+
 Atenção!! esse arquivo é para meu estudo e utilização do ambiente git 
 Não recomendo que o utilize para estudo da linguagem C.
+
 # Lógica de programação em C
 
 Projeto criado para meu aprendizado e interação com git
