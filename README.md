@@ -51,6 +51,7 @@ int main(){
     retorne 0;
 }
 ~~~
-#Lista de tarefas
+
+# Lista de tarefas
 - [ ] Como instalar o compilador MinGW
 - [ ] Como instalar o Vim (Windows, Linux)
