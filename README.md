@@ -52,5 +52,5 @@ int main(){
 }
 ~~~
 #Lista de tarefas
-- [] Como instalar o compilador MinGW
-- [] Como instalar o Vim (Windows, Linux)
+- [ ] \Como instalar o compilador MinGW
+- [ ] \Como instalar o Vim (Windows, Linux)
